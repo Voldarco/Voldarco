@@ -15,7 +15,7 @@ I'm an aspiring Software Engineer, Content Creator, and Community Engineer. I'm 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=voldarco&show_icons=true&include_all_commits=true&hide_border=true" alt="Voldar's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldarco&langs_count=8&layout=compact&hide_border=true" alt="Voldar's GitHub stats" /> |
 | ------------- | ------------- |
 
 
